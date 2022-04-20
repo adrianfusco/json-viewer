@@ -1,0 +1,14 @@
+{
+  "name": "json-viewer",
+  "version": "1.0.0",
+  "description": "JSON Formatter",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adrian Fusco Arnejo <adrianfuscoarnejo@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.4"
+  }
+}
