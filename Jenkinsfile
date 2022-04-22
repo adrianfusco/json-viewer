@@ -1,3 +1,3 @@
 stage ('Starting job') {
-    build job: 'RunArtInTest'
+    build job: 'rhos-infra-znoyder'
 }
